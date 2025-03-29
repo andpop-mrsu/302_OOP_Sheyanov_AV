@@ -1,5 +1,7 @@
 {
     "name": "app/task04",
+    "description": "laba4",
+    "license": "Fufel Schmertz, Pakastin Corporation",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
