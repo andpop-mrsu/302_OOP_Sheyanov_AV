@@ -1,5 +1,5 @@
 <?php
 
-interface PayPal {
+nterface PayPal {
     public function authorizeTransaction($amount): string;
 }
